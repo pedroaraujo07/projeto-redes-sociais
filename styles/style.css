@@ -62,24 +62,27 @@ iframe > img {
 
 #div-botoes {
     position: relative;
-    left: 88vw;
+    text-align: right;
+    width: 99vw;
     bottom: 600px;
-    width: fit-content;
 }
 
 #div-botoes > a {
-    display: block;
+    display: inline-block;
     margin-bottom: 15px;
 }
 
 .botao {
     border-radius: 50%;
-    width: 55px;
+    width: clamp(30px, 10vw, 55px);
     box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.448);
+    transition: all 0.5s ease-in-out;
 }
 
 .botao:hover {
-    border: 2px solid blue;
-    transition-duration: 2s;
+    border: 2px solid rgba(255, 255, 255, 0.495);
+    box-sizing: border-box;
+    transform: translate(-7px, -4px);
+    box-shadow: 7px 4px 12px rgba(0, 0, 0, 0.448);
     
 }
