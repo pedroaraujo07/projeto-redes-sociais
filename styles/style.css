@@ -52,6 +52,7 @@ main {
     height: 478px;
     bottom: 75px;
     left: 21px;
+    z-index: 10;
 }
 
 iframe > img {
