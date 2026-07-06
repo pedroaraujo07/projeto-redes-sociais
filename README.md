@@ -60,13 +60,8 @@ Este projeto foi desenvolvido com fins de estudo, buscando praticar técnicas de
 
 **Preview do Projeto**
 
-> Insira aqui uma imagem ou GIF do projeto.
+<img src="imagens/demo1.png" alt="Preview do Projeto Redes Sociais">
 
-Exemplo:
-
-```md
-<img src="imagens/preview.png" alt="Preview do Projeto Redes Sociais">
-```
 
 ---
 
