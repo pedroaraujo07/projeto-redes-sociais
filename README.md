@@ -60,7 +60,7 @@ Este projeto foi desenvolvido com fins de estudo, buscando praticar técnicas de
 
 **Preview do Projeto**
 
-<img src="imagens/demo1.png" alt="Preview do Projeto Redes Sociais">
+<img src="imagens/demo1.png" alt="Preview do Projeto Redes Sociais" height="400">
 
 
 ---
